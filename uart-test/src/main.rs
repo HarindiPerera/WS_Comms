@@ -26,7 +26,8 @@ fn main() {
                             break;
                         }
                         else {
-                            println!("{:?}",b)
+                            println!("{:?}",b);
+                            break;
                         }
                     }
                     _ => continue
