@@ -12,7 +12,7 @@ fn main() {
         stop_bits: Stop1,
         flow_control: FlowNone,
     };
-    let uart = Connection::from_path("/dev/ttyS0",settings,TIMEOUT).unwrap();
+    let uart = Connection::from_path("/dev/ttyS0",settings,TIMEOUT);
 
     let msg = [0,1];
 
