@@ -1,7 +1,7 @@
 from machine import UART
 
 uart = UART(1,115200)
-uart.init(baudrate = 115200, bits=8, parity=None, stop=1, tx=1, rx=3)
+uart.init(baudrate = 115200, bits=8, parity=None, stop=1)
 
 reply = b'\x01\x00'
 
