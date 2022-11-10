@@ -7,13 +7,19 @@ This is the Dandelions GIT repo for the Waratah Seed Space Mission in PYTHON sla
 
 Add step by step instructions on how to get the dev environoment up and running prior to run the code
 
+[ESP32 Start Up Workflow](https://docs.google.com/document/d/1zWtTmZlFsbb9k67T4MzerTt01wdQuxYpB65t8QXcs7c/edit)
+
 
 ## 🚀 Use the Project
 
-Once you have executed the pre-requisite work, run the following commands at the root of your project
+Once you have executed the pre-requisite work, start you tests with the following print test.
+
+<img width="309" alt="image" src="https://user-images.githubusercontent.com/104550460/201002426-0894ff87-717e-437d-ad61-d7dde7553ba9.png">
+
+
 
 ## 🤝 Contribute to the Project
-Features and Issue requests are always welcome! Feel free to follow [insert link here](https://docs.google.com/document/d/1ys2IjJwfgULklzdwifW87JmsffI5lJFgIe_mw_Khq5Q/edit#) if you want to understand the high level sprint allocation. 
+Features and Issue requests are always welcome! 
 
 
 ## 👤 Authors
